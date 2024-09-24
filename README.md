@@ -1,4 +1,15 @@
-# Android Device Information App
+<p align="center">
+    <a href="">
+      <img src="./art/mini_template.jpg" width="1000" />
+    </a>
+  </p>
+<div align="center">
+
+![Stars](https://img.shields.io/github/stars/dev-rossyn/Android-Device-Information)
+![GitHub last commit](https://img.shields.io/github/last-commit/dev-rossyn/Android-Device-Information)
+![pv](https://pageview.vercel.app/?github_user=dev-rossyn/Android-Device-Information)
+
+</div>
 
 This app is designed to retrieve and display detailed information about an Android device. It collects various system properties and settings, including device build info, hardware details, network configurations, and more, presenting it in a user-friendly interface.
 
@@ -28,6 +39,13 @@ This app is designed to retrieve and display detailed information about an Andro
 Support it by joining stargazers for this repository. ⭐
 
 Also, [follow me on GitHub](https://github.com/AndroidWithRossyn/) for my next creations! 🤩
+
+
+### Disclaimer
+
+This app collects and displays basic device information, including build details, hardware specifications, and network status.
+
+By using this app, you acknowledge and agree that the device information shown is solely for your personal reference and technical understanding. we  assume no responsibility for any misuse or unauthorized use of this information.
 
 
 ### Copyright & License
